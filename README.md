@@ -48,13 +48,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav1821&theme=react-dark" />
-</div>
-
----
 
 ## 🧠 Currently Working On
 
